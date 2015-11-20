@@ -1,1 +1,0 @@
-# Structured-CUDA-LBM
